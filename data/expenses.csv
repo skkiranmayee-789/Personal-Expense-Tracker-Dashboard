@@ -1,0 +1,35 @@
+Date,Category,Amount,Payment_Method,Description
+2026-01-01,Food,250,UPI,Lunch
+2026-01-05,Shopping,1500,Card,Clothes
+2026-01-10,Bills,2200,Net Banking,Electricity bill
+2026-01-15,Entertainment,700,UPI,Movie
+2026-01-20,Health,900,Card,Medicines
+2026-01-25,Transport,180,Cash,Taxi
+
+2026-02-02,Food,320,UPI,Dinner
+2026-02-06,Shopping,2500,Card,Shoes
+2026-02-11,Bills,1800,Net Banking,Internet bill
+2026-02-14,Entertainment,1200,UPI,Concert
+2026-02-18,Health,1100,Card,Doctor visit
+2026-02-24,Transport,250,Cash,Metro
+
+2026-03-03,Food,450,UPI,Restaurant
+2026-03-08,Shopping,3000,Card,Gadgets
+2026-03-12,Bills,2400,Net Banking,Rent
+2026-03-17,Entertainment,850,UPI,Games
+2026-03-21,Health,1300,Card,Health checkup
+2026-03-27,Transport,300,Cash,Cab
+
+2026-04-01,Food,500,UPI,Breakfast
+2026-04-05,Shopping,4000,Card,Laptop accessories
+2026-04-09,Bills,2600,Net Banking,Water bill
+2026-04-13,Entertainment,950,UPI,Subscription
+2026-04-19,Health,1500,Card,Pharmacy
+2026-04-25,Transport,350,Cash,Bus
+
+2026-05-04,Food,600,UPI,Dinner
+2026-05-08,Shopping,5000,Card,Mobile
+2026-05-12,Bills,3000,Net Banking,House rent
+2026-05-16,Entertainment,1400,UPI,Trip
+2026-05-21,Health,1700,Card,Medical tests
+2026-05-27,Transport,400,Cash,Train
