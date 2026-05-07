@@ -72,21 +72,20 @@ Personal-Expense-Tracker-Dashboard/
 
 # 📊 Dashboard Preview
 
-## Dashboard Overview
+## Sidebar Filters
 
-![Dashboard Overview](images/dashboard-overview.png)
+![Sidebar Filters](images/sidebar-filters2.png)
 
 ---
 
 ## Analytics Charts
 
-![Analytics Charts](images/analytics-charts.png)
+![Analytics Charts](images/analytics-charts2.png)
 
 ---
+## Dashboard Overview
 
-## Sidebar Filters
-
-![Sidebar Filters](images/sidebar-filters.png)
+![Dashboard Overview](images/dashboard-overview2.png)
 
 ---
 
@@ -121,7 +120,7 @@ The dashboard updates charts dynamically based on selected filters.
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/skkiranmayee-789/Personal-Expense-Tracker-Dashboard.git
 ```
 
 ---
